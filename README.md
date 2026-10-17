@@ -4,7 +4,7 @@ I'm transitioning into data engineering, combining my engineering background wit
 
 🛠️ **Tech Stack**
 
-   Python · Java · SQL · PostgreSQL · SQLAlchemy ·Pyspark · Git/GitHub · Microsoft Fabric · Microsoft Azure
+- Python · Java · SQL · PostgreSQL · SQLAlchemy ·Pyspark · Git/GitHub · Microsoft Fabric · Microsoft Azure
 
 🚀 **Key Projects**
 
