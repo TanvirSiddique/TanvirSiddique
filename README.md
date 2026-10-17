@@ -23,3 +23,6 @@ I'm transitioning into data engineering, combining my engineering background wit
 📫 **Connect with Me**
 
 [LinkedIn](www.linkedin.com/in/tanvir-s-70031246)
+
+
+_Always learning, building, and growing in data engineering._
